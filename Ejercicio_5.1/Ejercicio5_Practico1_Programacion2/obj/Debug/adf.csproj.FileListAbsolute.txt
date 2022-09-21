@@ -1,0 +1,7 @@
+C:\Users\Alumno\source\repos\adf\adf\obj\Debug\adf.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\adf\adf\obj\Debug\adf.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\adf\adf\bin\Debug\adf.exe.config
+C:\Users\Alumno\source\repos\adf\adf\bin\Debug\adf.exe
+C:\Users\Alumno\source\repos\adf\adf\bin\Debug\adf.pdb
+C:\Users\Alumno\source\repos\adf\adf\obj\Debug\adf.exe
+C:\Users\Alumno\source\repos\adf\adf\obj\Debug\adf.pdb

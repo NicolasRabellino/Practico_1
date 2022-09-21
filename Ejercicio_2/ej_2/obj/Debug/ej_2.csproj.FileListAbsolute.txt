@@ -1,0 +1,14 @@
+C:\Users\Fiyi\source\repos\ej_2\ej_2\bin\Debug\ej_2.exe.config
+C:\Users\Fiyi\source\repos\ej_2\ej_2\bin\Debug\ej_2.exe
+C:\Users\Fiyi\source\repos\ej_2\ej_2\bin\Debug\ej_2.pdb
+C:\Users\Fiyi\source\repos\ej_2\ej_2\obj\Debug\ej_2.csproj.AssemblyReference.cache
+C:\Users\Fiyi\source\repos\ej_2\ej_2\obj\Debug\ej_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fiyi\source\repos\ej_2\ej_2\obj\Debug\ej_2.csproj.CoreCompileInputs.cache
+C:\Users\Fiyi\source\repos\ej_2\ej_2\obj\Debug\ej_2.exe
+C:\Users\Fiyi\source\repos\ej_2\ej_2\obj\Debug\ej_2.pdb
+C:\Users\Alumno\Desktop\Practico_1\Ejercicio_2\ej_2\bin\Debug\ej_2.exe.config
+C:\Users\Alumno\Desktop\Practico_1\Ejercicio_2\ej_2\bin\Debug\ej_2.exe
+C:\Users\Alumno\Desktop\Practico_1\Ejercicio_2\ej_2\bin\Debug\ej_2.pdb
+C:\Users\Alumno\Desktop\Practico_1\Ejercicio_2\ej_2\obj\Debug\ej_2.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Practico_1\Ejercicio_2\ej_2\obj\Debug\ej_2.exe
+C:\Users\Alumno\Desktop\Practico_1\Ejercicio_2\ej_2\obj\Debug\ej_2.pdb
